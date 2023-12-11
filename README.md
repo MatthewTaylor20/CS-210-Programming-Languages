@@ -1,6 +1,6 @@
 # CS-210-Programming-Languages
 
-Summarize the project and what problem it was solving:
+**Summarize the project and what problem it was solving:**
 
 This project allows the user to upload a list of items purchaced and it will calculate how many times each item was purchased. It will save that data in a dat file and will also allow the user to view the data in a few different ways. 
 
